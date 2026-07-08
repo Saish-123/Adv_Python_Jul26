@@ -26,5 +26,5 @@ class circle(shape):
     def area(self):
         return 3.14*self.radius**2
 
-class = circle(5)
+c = circle(5)
 print("Area of Circle:", c.area())
